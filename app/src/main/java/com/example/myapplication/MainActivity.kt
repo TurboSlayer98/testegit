@@ -26,5 +26,6 @@ class MainActivity : AppCompatActivity() {
 
         //funcionalidade1_1
         //funcionalidade1_2
+        //funcionalidade1_3
     }
 }
